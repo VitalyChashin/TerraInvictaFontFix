@@ -1,0 +1,37 @@
+# Visual Studio 2015 cache directory
+/.vs/
+
+*.bak
+*.pdb
+*.zip
+
+# Unity3D generated meta files
+*.pidb.meta
+*.orig
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+[Oo]bj/
+[Ll]og/
+*.cache
+*.CopyComplete
+[Bb]in/
+packages/
+/doc/Output
+/doc/html
+/doc/latex
+/Examples/.vs/Examples/v15/Server/sqlite3
+/BasicUI/node_modules
+/BasicUI/package-lock.json
+TestNodeSetups/
+/ApiPortAnalysis.xlsx
+/~$ApiPortAnalysis.xlsx
+/*.xlsx
+appsettings.json
+hocon.txt
+/IoTMainCore/Assets
+/Database
+MainSettings.json

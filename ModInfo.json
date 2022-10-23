@@ -1,0 +1,13 @@
+{
+	"Id" : "TerraInvictaRussianLocalizationFix",
+	"DisplayName": "Terra Invicta Russian Localization Fix",
+	"title": "Terra Invicta Russian Localization Fix",
+	"author": "wchf",
+	"description": "Fixes fonts for russian localization",
+	"Version": "0.0.3",
+	"Requirements": [],
+	"ManagerVersion": "0.24.0.0",
+	"AssemblyName": "RussianLocalizationFix.dll",
+	"EntryMethod": "RussianLocalizationFix.Main.Load",
+	"mod url": ""
+}
